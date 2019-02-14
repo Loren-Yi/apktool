@@ -1,9 +1,9 @@
-# APK-Tools
+# apktool
 APK反编译工具
 
 一、APK反编译 
 
-（需要安装java环境:jdk-8u191-windows-x64）
+（需要安装java环境:例如jdk-8u191-windows-x64）
 
 1.反编译APK，生成APK反编译后的文件夹
 
