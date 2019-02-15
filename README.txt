@@ -11,6 +11,7 @@ apk反编译工具
 命令：java -jar apktool.jar b -f 文件夹名称
 
 PS：以上是常规APK反编译，回编译成功用户自行去签名即可。
+
 二、以下是系统APK反编译，需要添加框架
 
 1.首先要加载/system/framework下的所有apk框架，再进行对APK反编译<br>
