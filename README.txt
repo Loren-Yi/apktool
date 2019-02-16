@@ -1,4 +1,4 @@
-<font color=blue size=10>#apk反编译工具</font>
+#apk反编译工具
 
 
 一、APK反编译回编译<br>
