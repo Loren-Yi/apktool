@@ -1,7 +1,7 @@
 #apk反编译工具
 
 
-一、APK反编译回编译<br>
+##APK反编译回编译<br>
 （需要安装java环境:例如jdk-8u191-windows-x64）
 
 1.反编译APK，生成APK反编译后的文件夹<br>
@@ -20,7 +20,7 @@
 
 PS：以上是常规APK反编译，回编译成功用户自行去签名即可。
 
-二、以下是系统APK反编译，需要添加框架
+##以下是系统APK反编译，需要添加框架
 
 1.首先要加载/system/framework下的所有apk框架，再进行对APK反编译<br>
 
@@ -34,7 +34,7 @@ PS：以上是常规APK反编译，回编译成功用户自行去签名即可。
 3.回编译后需要把APK反编译生成文件夹中的original目录下的原始签名和AndroidManifest.xml配置文件替换回新生成的apk中即可，无需再次签名。
 
 
-![图片名称](https://www.baidu.com/img/bd_logo1.png)  
+[百度一下，你就知道](https://www.baidu.com/img/bd_logo1.png)  
 
-[链接名称](https://www.baidu.com/) 
+[百度首页](https://www.baidu.com/) 
 
