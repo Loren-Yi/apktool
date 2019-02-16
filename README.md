@@ -17,6 +17,7 @@
 `java -jar apktool.jar b -f file`
 
 
+
 PS：以上是常规APK反编译，回编译成功用户自行去签名即可。  
 
 ##以下是系统APK反编译，需要添加框架
@@ -31,7 +32,5 @@ PS：以上是常规APK反编译，回编译成功用户自行去签名即可。
 3.回编译后需要把APK反编译生成文件夹中的original目录下的原始签名和AndroidManifest.xml配置文件替换回新生成的apk中即可，无需再次签名。
 
 
-![百度首页](https://www.baidu.com/img/bd_logo1.png)  
-
-[百度首页](https://www.baidu.com/) 
+![fuli](https://www.baidu.com/img/bd_logo1.png)  
 
