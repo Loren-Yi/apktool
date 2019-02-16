@@ -5,7 +5,11 @@
 （需要安装java环境:例如jdk-8u191-windows-x64）
 
 1.反编译APK，生成APK反编译后的文件夹<br>
+
+```
 命令：java -jar apktool.jar d -f xxx.apk
+
+```
 
 2.回编译，生成的新APK在文件夹的dist目录<br>
 命令：java -jar apktool.jar b -f file
