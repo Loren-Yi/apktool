@@ -1,6 +1,5 @@
-<font color=gray size=100>
-# 
-apk反编译工具
+<font color=blue size=10>#apk反编译工具</font>
+
 
 一、APK反编译回编译<br>
 （需要安装java环境:例如jdk-8u191-windows-x64）
@@ -21,4 +20,4 @@ PS：以上是常规APK反编译，回编译成功用户自行去签名即可。
 2.反编译回编译如上
 
 3.回编译后需要把APK反编译生成文件夹中的original目录下的原始签名和AndroidManifest.xml配置文件替换回新生成的apk中即可，无需再次签名。
-</font>
+
